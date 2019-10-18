@@ -1,0 +1,192 @@
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dragos\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EasyTabs.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.User32.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EasyTabs.xml
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.User32.pdb
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppCointainer.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\Dragos\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EasyTabs.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.User32.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EasyTabs.xml
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.User32.pdb
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppCointainer.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dragos\Desktop\CD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EasyTabs.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.User32.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EasyTabs.xml
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.User32.pdb
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppCointainer.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dragos\Desktop\CD NEWEST\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EasyTabs.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.User32.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EasyTabs.xml
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.User32.pdb
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppCointainer.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dragos\Desktop\CD1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
