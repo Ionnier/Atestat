@@ -509,7 +509,7 @@ namespace WindowsFormsApp1
 
             var smtpClient = new SmtpClient("smtp.gmail.com", 587);
             smtpClient.UseDefaultCredentials = true;
-            smtpClient.Credentials = new NetworkCredential("theyokaiproject@gmail.com", "blanao123");
+            smtpClient.Credentials = new NetworkCredential(email, pass ( you have to introduce them :E ) );
             smtpClient.EnableSsl = true;
             smtpClient.Send(mailMessage);
 
