@@ -127,8 +127,8 @@ CREATE TABLE `mysqlcsharp` (
 --
 
 INSERT INTO `mysqlcsharp` (`id`, `username`, `password`, `email`, `admin`) VALUES
-(1, 'admin', '$MYHASH$V1$10000$tXa1pgtwWcjk03QgvaNTrD0f/JY9KnWkPQDetre2TLrqudar', 'dragosbahrim@outlook.com', 1),
-(4, 'user', '$MYHASH$V1$10000$SaF96KekQeCOq5r3T20YR6CkMleYHaBSyqoe/nFOCFsj8qwc', 'cosminzeed@gmail.com', 0);
+(1, 'admin', '$MYHASH$V1$10000$tXa1pgtwWcjk03QgvaNTrD0f/JY9KnWkPQDetre2TLrqudar', 'dragos@mail', 1),
+(4, 'user', '$MYHASH$V1$10000$SaF96KekQeCOq5r3T20YR6CkMleYHaBSyqoe/nFOCFsj8qwc', 'cosmin@mail', 0);
 
 -- --------------------------------------------------------
 
